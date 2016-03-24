@@ -2,6 +2,9 @@
 "use strict";
 
 var playerChoiceURL;
+var computerChoice;
+
+var board;
 
 
 // Method to take input from the user
